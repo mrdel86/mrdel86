@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miguel! <br/><a href="https://github.com/mrdel86">Programmer</a> & <a href="https://www.linkedin.com/in/mrdelgado86/">Cybersecurity Graduate</a></h1>
+<h1>Hi, I'm Miguel! <br/><a href="https://github.com/mrdel86"><a href="https://www.linkedin.com/in/mrdelgado86/">Cybersecurity Graduate</a></h1>
 
 <h1>👨‍💻 Cybersecurity Projects:</h1>
 
